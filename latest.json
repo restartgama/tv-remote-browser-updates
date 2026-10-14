@@ -1,0 +1,8 @@
+{
+  "versionCode": 4,
+  "versionName": "0.2.2",
+  "apkUrl": "https://github.com/restartgama/tv-remote-browser-updates/releases/download/v0.2.2/TV-Remote-Browser-0.2.2-beta.apk",
+  "sha256": "677323a594392d045e282a3b88c6f8faf7fe94d4a99b0202569c0a88cdfcb5c6",
+  "bytes": 15635699,
+  "notes": "최신 회차 우선 정렬, 회차 40개씩 빠르게 표시, 페이지 전환 후 재생 멈춤 수정, 앱 업데이트 기능 추가. 실제 TV의 작품별 재생 확인은 필요합니다."
+}
