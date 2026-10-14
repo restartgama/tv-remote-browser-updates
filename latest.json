@@ -1,8 +1,8 @@
-{
-  "versionCode": 4,
-  "versionName": "0.2.2",
-  "apkUrl": "https://github.com/restartgama/tv-remote-browser-updates/releases/download/v0.2.2/TV-Remote-Browser-0.2.2-beta.apk",
-  "sha256": "677323a594392d045e282a3b88c6f8faf7fe94d4a99b0202569c0a88cdfcb5c6",
-  "bytes": 15635699,
-  "notes": "최신 회차 우선 정렬, 회차 40개씩 빠르게 표시, 페이지 전환 후 재생 멈춤 수정, 앱 업데이트 기능 추가. 실제 TV의 작품별 재생 확인은 필요합니다."
+﻿{
+    "versionCode":  5,
+    "versionName":  "0.2.3",
+    "apkUrl":  "https://github.com/restartgama/tv-remote-browser-updates/releases/download/v0.2.3/TV-Remote-Browser-0.2.3-beta.apk",
+    "sha256":  "b80de66c0a0aa9685fe2bba8f5e1a9736c982d8e44091e8538315992e4b3ea35",
+    "bytes":  15566440,
+    "notes":  "유튜브 화면을 참고해 흰 배경·상단 검색·가로 카테고리·가로 썸네일 3열 UI를 적용했습니다. 왼쪽 세로 메뉴와 큰 추천 배너를 제거했습니다.\n\n목록/뒤로 이동 시 직전 목록과 선택 위치를 복원합니다. 상세 로딩 중 목록 버튼도 복원하도록 수정했습니다. 영화·드라마는 최근 업로드/방영 순서로 요청하며, 포스터와 정확한 제목을 같은 링크로 연결합니다. 화면에 보이는 이미지만 요청하고 소프트웨어 그림자 처리를 줄였습니다.\n\n기존 앱 삭제 없이 업데이트 설치하세요. 실제 TCL TV에서 작품별 재생과 체감 속도, 업데이트 설치 확인이 필요합니다. 소스·개인 자료·서명 키는 포함하지 않습니다."
 }
